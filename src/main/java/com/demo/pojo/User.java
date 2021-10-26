@@ -6,5 +6,7 @@ public class User {
     private String uname;
     private String upassword;
     private String sex;
+    private String sss;
+
 
 }
